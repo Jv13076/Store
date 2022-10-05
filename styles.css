@@ -1,0 +1,42 @@
+body {
+    background-color: #ffffff;
+background-image:  repeating-linear-gradient(45deg, #ff0000 25%, transparent 25%, transparent 75%, #ff0000 75%, #ff0000), repeating-linear-gradient(45deg, #ff0000 25%, #ffffff 25%, #ffffff 75%, #ff0000 75%, #ff0000);
+background-position: 0 0, 27px 27px;
+background-size: 54px 54px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+text-align: left;
+border-style: solid;
+background-color: rgb(255, 255, 255);
+}
+
+h3 {
+    border-style: solid;
+    background-color: white;
+    text-align-last: top;
+}
+
+.png
+
+{
+    text-align: right;
+}
+
+.item {
+    border-style: dotted;
+}
+
+.item>img {
+
+    margin: auto;
+}
+
+.item>h3 {
+
+    justify-content: center;
+}
